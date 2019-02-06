@@ -11,3 +11,6 @@ Google Cloud Anchor API - "anchored" the augmented field on real world field, wh
 DEMO
 
 ![img-3133](https://user-images.githubusercontent.com/42255588/52316487-66d7b780-2970-11e9-8d2c-a91947cd88b7.JPG)
+![img-3134](https://user-images.githubusercontent.com/42255588/52316529-95559280-2970-11e9-94d4-17b56d7eb72e.JPG)
+
+(The objects on the table were placed intentionally, because the ARCore engine and cloud anchor API works better with cornered surfaces; it wasn't that we were just nasty :o )
